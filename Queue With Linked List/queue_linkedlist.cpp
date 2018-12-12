@@ -75,7 +75,7 @@ public:
 		cout<<endl;
 	}
 };//akhir class linkedlist
-
+//@author Taufik Amaryansyah(5170411279)
 class QueueList{
 private:
 	linkedlist queue;
